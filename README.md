@@ -1,7 +1,7 @@
 # Four-arithmetic-operations
-_四則演算プログラム「Four arithmetic operations」(Python3.6)＿  
-四則演算プログラム「Four arithmetic operations」の使用方法  
-「式を入力してください：」  
+_四則演算プログラム「Four arithmetic operations」(Python3.6)_  
+四則演算プログラム「Four arithmetic operations」の使用方法    
+「式を入力してください：」  
 と表示されるので「：」のあとに、計算記号（ +,-,*,/ ）を含む数式を入力してください。  
 答えは次の行に「答えは⚪️です」と表示されます。  
 引き続き計算する場合は、  
